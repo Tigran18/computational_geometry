@@ -10,6 +10,9 @@ template <typename T, std::size_t D, Type TP>
 class Point : public IVector {
     std::array<T, D> coords{};
 
+    template <typename U, std::size_t M, Type PM>
+    friend class Segment;
+
 public:
     explicit Point(const std::vector<T>& values) {
         assert(values.size() == D);

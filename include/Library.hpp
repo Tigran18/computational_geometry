@@ -4,6 +4,7 @@
 #include <initializer_list>
 #include "Point.hpp"
 #include "Ray.hpp"
+#include "Segment.hpp"
 
 class Library {
 public:
@@ -24,7 +25,13 @@ public:
         if (tp == Type::cylindrical && coords.size() == 3) {
             return std::make_unique<Point<T, 3, Type::cylindrical>>(coords[0], coords[1], coords[2]);
         }
+        
         return nullptr;
+    }
+
+    template <typename T, std::size_t N, Type TP>
+    static std::unique_ptr<ISegment> create_segment(const Point<T, N, TP>& a, const Point<T, N, TP>& b) {
+        return std::make_unique<Segment<T, N, TP>>(a, b);
     }
 
     static std::unique_ptr<IPoint> create_point(Type tp, std::initializer_list<float> coords) {

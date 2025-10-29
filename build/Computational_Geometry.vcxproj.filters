@@ -10,6 +10,9 @@
     <ClCompile Include="C:\Users\HP\Desktop\Codes\cpp\computational_geometry\src\Ray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\HP\Desktop\Codes\cpp\computational_geometry\src\Segment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\HP\Desktop\Codes\cpp\computational_geometry\CMakeLists.txt" />

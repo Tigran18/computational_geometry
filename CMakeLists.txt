@@ -14,6 +14,7 @@ set(SOURCES
     src/main.cpp
     src/Library.cpp
     src/Ray.cpp
+    src/Segment.cpp
 )
 
 add_executable(Computational_Geometry ${SOURCES})
