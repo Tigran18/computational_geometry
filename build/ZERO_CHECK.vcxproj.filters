@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\HP\Desktop\Codes\cpp\cpp_homeworks\calculational_geometry\build\CMakeFiles\5314ae12e2094d13da9b0608589c4fea\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\HP\Desktop\Codes\cpp\computational_geometry\build\CMakeFiles\0a582d2daf6e0c0d7b56ee3f39920397\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{DC307587-0964-3CE7-8233-34E74EFCB76E}</UniqueIdentifier>
+      <UniqueIdentifier>{407FAFB6-E1E8-3AB1-91E0-D145CC72A631}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

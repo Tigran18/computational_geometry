@@ -1,3 +1,3 @@
-C:/Users/HP/Desktop/Codes/cpp/cpp_homeworks/calculational_geometry/build/CMakeFiles/Computational_Geometry.dir
-C:/Users/HP/Desktop/Codes/cpp/cpp_homeworks/calculational_geometry/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/HP/Desktop/Codes/cpp/cpp_homeworks/calculational_geometry/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/HP/Desktop/Codes/cpp/computational_geometry/build/CMakeFiles/Computational_Geometry.dir
+C:/Users/HP/Desktop/Codes/cpp/computational_geometry/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP/Desktop/Codes/cpp/computational_geometry/build/CMakeFiles/ZERO_CHECK.dir

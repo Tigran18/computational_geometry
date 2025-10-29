@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\HP\Desktop\Codes\cpp\cpp_homeworks\calculational_geometry\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\HP\Desktop\Codes\cpp\computational_geometry\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\HP\Desktop\Codes\cpp\cpp_homeworks\calculational_geometry\release\Release\Computational_Geometry.exe</FullPath>
+      <FullPath>C:\Users\HP\Desktop\Codes\cpp\computational_geometry\release\Release\Computational_Geometry.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\HP\Desktop\Codes\cpp\cpp_homeworks\calculational_geometry\build\x64\Release\ALL_BUILD</FullPath>
+      <FullPath>C:\Users\HP\Desktop\Codes\cpp\computational_geometry\build\x64\Release\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

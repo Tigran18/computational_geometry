@@ -13,6 +13,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 set(SOURCES
     src/main.cpp
     src/Library.cpp
+    src/Ray.cpp
 )
 
 add_executable(Computational_Geometry ${SOURCES})
